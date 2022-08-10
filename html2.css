@@ -1,0 +1,38 @@
+body{
+
+    background-color:rgb(172, 209, 240);
+
+    }
+    
+       h1{
+    
+        color:rgb(2, 100, 18);
+    
+        font-size: 60;
+    
+        font-style:italic;
+    
+    
+       }
+    
+       h2{
+    
+        color:rgb(202, 107, 247);
+    
+       }
+    
+       .tt{
+    
+        color:rgb(3, 87, 35);
+    
+        font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+       }
+    
+       #der-artic{
+    
+        color: rgb(245, 32, 181);
+    
+     
+    
+       }
