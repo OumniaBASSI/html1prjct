@@ -1,38 +1,34 @@
 body{
 
     background-color:rgb(172, 209, 240);
-
+   background-image:url(https://as2.ftcdn.net/v2/jpg/04/95/88/03/1000_F_495880370_OeqaJkVyiSuGRoaJUY1UkbIgqheENtLV.jpg);
+   background-size: 1500px;
+   background-attachment: fixed;
     }
     
-       h1{
-    
-        color:rgb(2, 100, 18);
-    
-        font-size: 60;
-    
+     h1{
+        color:rgb(6, 30, 109);
+       font-size: 80;
         font-style:italic;
-    
-    
+        text-align: center;
        }
     
        h2{
-    
-        color:rgb(202, 107, 247);
-    
-       }
+        color: rgb(49,1,37);
+        font-style: oblique;
+        size:50;
+        }
     
        .tt{
-    
-        color:rgb(3, 87, 35);
-    
+        color:rgb(49, 1, 37);
         font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    
+        font-style: oblique;
        }
     
        #der-artic{
-    
-        color: rgb(245, 32, 181);
-    
-     
-    
+        color: rgb(46, 1, 37);
+        font-style: oblique;
        }
+       
+
+       
